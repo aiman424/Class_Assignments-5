@@ -14,6 +14,9 @@ const config: Config = {
         header: "#A29875",
         heading: "#FFFFFF",
         button: "#A29875",
+        heading2: "#000000",
+        select: "#0000009E",
+
 
       },
     },
